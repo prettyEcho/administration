@@ -1,0 +1,28 @@
+/* All styles created for demo purposes only, you may not need this for your project */
+.demo-button button {
+  margin-bottom: 5px; }
+
+.demo-icons li {
+  margin-bottom: 50px;
+  text-align: center; }
+
+.demo-icons .lnr,
+.demo-icons .fa {
+  font-size: 28px; }
+
+.demo-icons .cssclass {
+  display: block;
+  margin-top: 5px;
+  margin-left: 5px; }
+.col-grid{
+	background: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+.padder{ 
+	margin: 0;
+	margin-top: 20px;
+ }
+/*# sourceMappingURL=demo.css.map */
